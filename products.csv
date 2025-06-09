@@ -1,0 +1,21 @@
+product_id,product_name,category,price,cost
+1,Product 1,Clothing,135.61,28.36
+2,Product 2,Toys,456.46,170.42
+3,Product 3,Home,237.0,56.11
+4,Product 4,Home,140.16,222.31
+5,Product 5,Electronics,119.77,34.46
+6,Product 6,Home,79.15,113.52
+7,Product 7,Clothing,30.34,29.47
+8,Product 8,Clothing,465.32,141.09
+9,Product 9,Toys,407.39,207.73
+10,Product 10,Clothing,27.11,277.34
+11,Product 11,Home,390.69,63.84
+12,Product 12,Clothing,442.98,237.81
+13,Product 13,Electronics,270.51,205.21
+14,Product 14,Toys,117.26,194.18
+15,Product 15,Toys,78.27,157.15
+16,Product 16,Electronics,186.83,38.07
+17,Product 17,Electronics,184.09,34.91
+18,Product 18,Electronics,14.65,29.65
+19,Product 19,Clothing,437.55,43.43
+20,Product 20,Clothing,207.3,245.11
